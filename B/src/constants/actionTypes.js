@@ -1,0 +1,5 @@
+export const locationTypes = {
+  STORE_SUCCESS: 'STORE_SUCCESS',
+  STORE_FAIL: 'STORE_FAIL',
+  STORE_DESTROY: 'STORE_DESTROY'
+}
